@@ -13,7 +13,7 @@ Name: Jacob Brewington                      ID: jmb1817
 Github Email: jbrew123@hotmail.com
 ```
 ```
-***insert position here***
-Name: ***insert name here***                ID: ***Insert MSU ID***
-Github Email: ***
+Mainly Human
+Name: Connor Black                ID: cgb288
+Github Email: blackmail.connor@gmail.com
 ```
